@@ -27,3 +27,5 @@ The model also includes a visualization step, plotting the actual versus predict
 Summary
 In summary, this regression model aims to predict a continuous variable related to breast cancer using various tumor characteristics from the Wisconsin datset.
 
+Accuracy percentage of this model is 86 %.
+
